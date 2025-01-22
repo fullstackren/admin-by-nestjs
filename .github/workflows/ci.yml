@@ -1,4 +1,4 @@
-name: blog CI
+name: phthon CI
 on:
   push:
     branches:
