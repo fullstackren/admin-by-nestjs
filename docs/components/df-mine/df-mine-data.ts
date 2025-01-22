@@ -19,6 +19,12 @@ export const CONTACT_DATA: MineData[] = [
 // 交个朋友-内容输出
 export const OUTPUT_DATA: MineData[] = [
   {
+    title: '江湖聊IT',
+    desc: '我的个人博客',
+    link: 'https://www.fullstack.ren/',
+    icon: "/icons/jianghu.jpg"
+  },
+  {
     title: '掘金',
     desc: '2025年重拾掘金。',
     link: 'https://juejin.cn/user/1046390799881463',
